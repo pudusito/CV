@@ -1,0 +1,81 @@
+|》》  Analista Programador Full Stack  《《|
+
+💻 Enfocado en el desarrollo de aplicaciones web y soluciones de software, con experiencia práctica en proyectos academicos y personales.
+
+🎓 Formación práctica en jornada vespertina, con fuerte enfoque en el aprendizaje autónomo y la metodología learning by doing.
+
+🔎 Busco una práctica profesional en desarrollo Full Stack, con posibilidad de continuidad laboral y crecimiento dentro del área de desarrollo de software.
+
+🧠 Las tecnologias que manejo
+
+-> Main Stack:
+Python- Django -
+HTML - CSS - 
+Javascript - 
+React - Tailwind -
+NodeJS - Express.
+
+-> Second Stack:
+Android Studio - Kotlin -
+Arduino C++ -
+Unity C#.
+
+-> Sistemas Operativos:
+Windows - Linux.
+
+-> Bases de Datos:
+SQl - MongoDB.
+
+-> Analisis de Datos:
+Knime - PowerBI.
+
+-> Control de Versiones:
+Git - Docker.
+
+-> Documentación:
+UML - Otros...
+
+-> Idiomas:
+Ingles: B2.
+
+_______________________________________________________________________________________________________________________________
+|》》  Full Stack Analyst Programmer  《《|
+
+💻 Focused on web application development and software solutions, with hands-on experience in academic and personal projects.
+
+🎓 Practical training in evening programs, with a strong emphasis on self-directed learning and the learning by doing methodology.
+
+🔎 Seeking a professional internship in Full Stack development, with the possibility of long-term employment and growth within the software development field.
+
+🧠 Technologies I work with
+
+→ Main Stack:
+Python – Django
+HTML – CSS
+JavaScript
+React – Tailwind
+Node.js – Express
+
+→ Secondary Stack:
+Android Studio – Kotlin
+Arduino – C++
+Unity – C#
+
+→ Operating Systems:
+Windows – Linux
+
+→ Databases:
+SQL – MongoDB
+
+→ Data Analysis:
+KNIME – Power BI
+
+→ Version Control:
+Git – Docker
+
+→ Documentation:
+UML – Others
+
+→ Languages:
+Spanish: Native
+English: B2
